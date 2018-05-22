@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "supersoyboy.data.unityweb",
+"asmCodeUrl": "supersoyboy.asm.code.unityweb",
+"asmMemoryUrl": "supersoyboy.asm.memory.unityweb",
+"asmFrameworkUrl": "supersoyboy.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
